@@ -1,2 +1,1 @@
-"echo \"Hello World\" >> test.log",
-"sleep 10"
+echo \"Hello World\" >> test.log
